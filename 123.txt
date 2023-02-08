@@ -12,4 +12,8 @@ This is for test.
 2023
 hdfjsakl
 jgfkdsl;
+<<<<<<< HEAD
 jgfdlks;
+=======
+fjdkl;a
+>>>>>>> refs/remotes/origin/main
